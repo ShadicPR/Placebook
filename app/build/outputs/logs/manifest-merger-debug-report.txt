@@ -1,0 +1,399 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Player One\AndroidStudioProjects\Placebook\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\Users\Player One\AndroidStudioProjects\Placebook\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\Users\Player One\AndroidStudioProjects\Placebook\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\Users\Player One\AndroidStudioProjects\Placebook\app\src\main\AndroidManifest.xml:2:1-43:12
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\4b7a94cc44aaf29d12e96580967b0578\material-1.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.1.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\cb2c142d79604646c89f5c60f9c25694\jetified-activity-ktx-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\43a917f9534cb05f0a20bd294163eceb\jetified-lifecycle-viewmodel-ktx-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\334d8ef66280a3992eca002228faf8de\jetified-lifecycle-runtime-ktx-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.room:room-runtime:2.2.4] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\e8cc9e1c87b2ac4ab8a06ef880ed797a\room-runtime-2.2.4\AndroidManifest.xml:17:1-30:12
+MERGED from [com.google.android.libraries.places:places:2.2.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\88212237aada6baf10ea53169e10f359\jetified-places-2.2.0\AndroidManifest.xml:2:1-23:12
+MERGED from [androidx.core:core-ktx:1.3.1] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\8980d788014fcfbd6a5e16fdd30ae692\jetified-core-ktx-1.3.1\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\810bc0023f39274b6f9bc838d32f9df6\constraintlayout-2.0.1\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\4e039017508058e03141616af225b4eb\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\89f1fabb145e11ae04e34496891dea8a\jetified-play-services-location-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\84d72358cb7edc9162e5c678460a7256\jetified-play-services-maps-17.0.0\AndroidManifest.xml:17:1-38:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\ae0d43a8cd9e2d0dca0ee7612d373384\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\9851228a28131c6e079209b1996b47a5\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\e960c38ba3074b13a07325926ae4b3e7\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\b5466dcfe12488b715be006750d7ab23\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\4641752ec657f9b4a42d6a06f25d7d22\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\4105de63edbfe1f7a89f44426cee4e60\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\484b16f1e5940703d264a70e13a14e3d\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\87ac0cb8801084f9e52c860ba2474e27\lifecycle-extensions-2.1.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\548e9fe7c0dbc0938b6828b2531865ee\jetified-play-services-base-17.0.0\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\a47ac503a53104cb9453ec1628337d0a\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\187ac540f112f4115e09d1ca0f046a1e\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\1b90b1be4df66705fb91818db0752e78\jetified-play-services-basement-17.0.0\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\196689ac7938efd9fe7bde63e1bf8c1a\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\07fffc4e66e9051edb002e23eddf3cce\jetified-activity-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:1.0.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\a5d8218f222afd1356a654be097d36f3\jetified-lifecycle-viewmodel-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\6f621cac338d61e4657df2851636b5fa\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\ff664a25e1391f1156cfb2e2374c7147\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\e3edde45ffebbc7c1f6d733314641c7e\sqlite-framework-2.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.0.1] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\ed0d183fbf2c77b799a8052e72e1610e\sqlite-2.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.1.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\52a239d0e0857e05e17905a5a2797745\jetified-transport-backend-cct-2.1.0\AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.android.datatransport:transport-runtime:2.1.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\f1b27c42c2ecbfe64636560fba7fdae1\jetified-transport-runtime-2.1.0\AndroidManifest.xml:15:1-41:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\2a612bd4c425dcfbfc1a3a304e287881\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\17f3264973adbc27bc15b903e97c2276\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\c12747f68fadffbb0e0ad871896b687f\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\a30017872b14105a400314921d5cb62e\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.1] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\3fad7ea4f0b845c6f6667debb95e1494\core-1.3.1\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\22f084678c0c8123034752ff82b9a006\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\6118f679eabfffe3c12f082544a87853\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\cfe5579bfd3e0405e80a9d4f73b47ec1\jetified-lifecycle-process-2.1.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\e7e745e2fbeb2e1d644c0f5f8cdb581d\jetified-lifecycle-service-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\7d6e7d8b4768dffce85856eb040e0ba1\lifecycle-runtime-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\aa817d39ca4f9f9f764e5a0b70163814\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\f44b25732aff5ebbf274fe3cc07a0c41\lifecycle-livedata-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\31435e025cdccb9fb8afecf6a35971cd\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\ca6f5dc978f1f081f1b8afbaed8e2aeb\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\6ba1de9be899b775fb2e622bcf9ee329\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\541c09a69b824cc7c223abe4277f4942\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\054bafbf921f3fd45c802972becf40c0\jetified-volley-1.1.1\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.datatransport:transport-api:2.1.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\4bdb64ad4f64ed8ae98209cce576b44f\jetified-transport-api-2.1.0\AndroidManifest.xml:15:1-22:12
+INJECTED from C:\Users\Player One\AndroidStudioProjects\Placebook\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\Users\Player One\AndroidStudioProjects\Placebook\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\Users\Player One\AndroidStudioProjects\Placebook\app\src\main\AndroidManifest.xml:2:1-43:12
+	package
+		ADDED from C:\Users\Player One\AndroidStudioProjects\Placebook\app\src\main\AndroidManifest.xml:3:5-42
+		INJECTED from C:\Users\Player One\AndroidStudioProjects\Placebook\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Player One\AndroidStudioProjects\Placebook\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Player One\AndroidStudioProjects\Placebook\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Player One\AndroidStudioProjects\Placebook\app\src\main\AndroidManifest.xml:2:1-43:12
+		INJECTED from C:\Users\Player One\AndroidStudioProjects\Placebook\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Player One\AndroidStudioProjects\Placebook\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Player One\AndroidStudioProjects\Placebook\app\src\main\AndroidManifest.xml:2:1-43:12
+		INJECTED from C:\Users\Player One\AndroidStudioProjects\Placebook\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Player One\AndroidStudioProjects\Placebook\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\Player One\AndroidStudioProjects\Placebook\app\src\main\AndroidManifest.xml:4:5-79
+MERGED from [com.google.android.libraries.places:places:2.2.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\88212237aada6baf10ea53169e10f359\jetified-places-2.2.0\AndroidManifest.xml:9:5-79
+MERGED from [com.google.android.libraries.places:places:2.2.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\88212237aada6baf10ea53169e10f359\jetified-places-2.2.0\AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from C:\Users\Player One\AndroidStudioProjects\Placebook\app\src\main\AndroidManifest.xml:4:22-76
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\Player One\AndroidStudioProjects\Placebook\app\src\main\AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from C:\Users\Player One\AndroidStudioProjects\Placebook\app\src\main\AndroidManifest.xml:5:22-77
+application
+ADDED from C:\Users\Player One\AndroidStudioProjects\Placebook\app\src\main\AndroidManifest.xml:6:5-41:19
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\4b7a94cc44aaf29d12e96580967b0578\material-1.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\4b7a94cc44aaf29d12e96580967b0578\material-1.2.1\AndroidManifest.xml:22:5-20
+MERGED from [androidx.room:room-runtime:2.2.4] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\e8cc9e1c87b2ac4ab8a06ef880ed797a\room-runtime-2.2.4\AndroidManifest.xml:24:5-28:19
+MERGED from [androidx.room:room-runtime:2.2.4] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\e8cc9e1c87b2ac4ab8a06ef880ed797a\room-runtime-2.2.4\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.android.libraries.places:places:2.2.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\88212237aada6baf10ea53169e10f359\jetified-places-2.2.0\AndroidManifest.xml:13:5-21:19
+MERGED from [com.google.android.libraries.places:places:2.2.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\88212237aada6baf10ea53169e10f359\jetified-places-2.2.0\AndroidManifest.xml:13:5-21:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\810bc0023f39274b6f9bc838d32f9df6\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\810bc0023f39274b6f9bc838d32f9df6\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\89f1fabb145e11ae04e34496891dea8a\jetified-play-services-location-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\89f1fabb145e11ae04e34496891dea8a\jetified-play-services-location-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\84d72358cb7edc9162e5c678460a7256\jetified-play-services-maps-17.0.0\AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\84d72358cb7edc9162e5c678460a7256\jetified-play-services-maps-17.0.0\AndroidManifest.xml:30:5-36:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\87ac0cb8801084f9e52c860ba2474e27\lifecycle-extensions-2.1.0\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\87ac0cb8801084f9e52c860ba2474e27\lifecycle-extensions-2.1.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\548e9fe7c0dbc0938b6828b2531865ee\jetified-play-services-base-17.0.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\548e9fe7c0dbc0938b6828b2531865ee\jetified-play-services-base-17.0.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\a47ac503a53104cb9453ec1628337d0a\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\a47ac503a53104cb9453ec1628337d0a\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\187ac540f112f4115e09d1ca0f046a1e\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\187ac540f112f4115e09d1ca0f046a1e\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\1b90b1be4df66705fb91818db0752e78\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\1b90b1be4df66705fb91818db0752e78\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.1.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\52a239d0e0857e05e17905a5a2797745\jetified-transport-backend-cct-2.1.0\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.1.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\52a239d0e0857e05e17905a5a2797745\jetified-transport-backend-cct-2.1.0\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.1.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\f1b27c42c2ecbfe64636560fba7fdae1\jetified-transport-runtime-2.1.0\AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.1.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\f1b27c42c2ecbfe64636560fba7fdae1\jetified-transport-runtime-2.1.0\AndroidManifest.xml:25:5-39:19
+MERGED from [androidx.core:core:1.3.1] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\3fad7ea4f0b845c6f6667debb95e1494\core-1.3.1\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.1] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\3fad7ea4f0b845c6f6667debb95e1494\core-1.3.1\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\6118f679eabfffe3c12f082544a87853\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\6118f679eabfffe3c12f082544a87853\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\cfe5579bfd3e0405e80a9d4f73b47ec1\jetified-lifecycle-process-2.1.0\AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\cfe5579bfd3e0405e80a9d4f73b47ec1\jetified-lifecycle-process-2.1.0\AndroidManifest.xml:22:5-28:19
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\054bafbf921f3fd45c802972becf40c0\jetified-volley-1.1.1\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\054bafbf921f3fd45c802972becf40c0\jetified-volley-1.1.1\AndroidManifest.xml:9:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.1] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\3fad7ea4f0b845c6f6667debb95e1494\core-1.3.1\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\Player One\AndroidStudioProjects\Placebook\app\src\main\AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from C:\Users\Player One\AndroidStudioProjects\Placebook\app\src\main\AndroidManifest.xml:9:9-41
+	android:roundIcon
+		ADDED from C:\Users\Player One\AndroidStudioProjects\Placebook\app\src\main\AndroidManifest.xml:10:9-54
+	android:icon
+		ADDED from C:\Users\Player One\AndroidStudioProjects\Placebook\app\src\main\AndroidManifest.xml:8:9-43
+	android:allowBackup
+		ADDED from C:\Users\Player One\AndroidStudioProjects\Placebook\app\src\main\AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from C:\Users\Player One\AndroidStudioProjects\Placebook\app\src\main\AndroidManifest.xml:12:9-40
+meta-data#com.google.android.geo.API_KEY
+ADDED from C:\Users\Player One\AndroidStudioProjects\Placebook\app\src\main\AndroidManifest.xml:13:9-15:55
+	android:value
+		ADDED from C:\Users\Player One\AndroidStudioProjects\Placebook\app\src\main\AndroidManifest.xml:15:13-52
+	android:name
+		ADDED from C:\Users\Player One\AndroidStudioProjects\Placebook\app\src\main\AndroidManifest.xml:14:13-58
+activity#com.raywenderlich.placebook.ui.MapsActivity
+ADDED from C:\Users\Player One\AndroidStudioProjects\Placebook\app\src\main\AndroidManifest.xml:17:9-25:20
+	android:label
+		ADDED from C:\Users\Player One\AndroidStudioProjects\Placebook\app\src\main\AndroidManifest.xml:19:13-56
+	android:theme
+		ADDED from C:\Users\Player One\AndroidStudioProjects\Placebook\app\src\main\AndroidManifest.xml:20:13-56
+	android:name
+		ADDED from C:\Users\Player One\AndroidStudioProjects\Placebook\app\src\main\AndroidManifest.xml:18:13-44
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Player One\AndroidStudioProjects\Placebook\app\src\main\AndroidManifest.xml:21:13-24:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Player One\AndroidStudioProjects\Placebook\app\src\main\AndroidManifest.xml:22:17-68
+	android:name
+		ADDED from C:\Users\Player One\AndroidStudioProjects\Placebook\app\src\main\AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Player One\AndroidStudioProjects\Placebook\app\src\main\AndroidManifest.xml:23:17-76
+	android:name
+		ADDED from C:\Users\Player One\AndroidStudioProjects\Placebook\app\src\main\AndroidManifest.xml:23:27-74
+activity#com.raywenderlich.placebook.ui.BookmarkDetailsActivity
+ADDED from C:\Users\Player One\AndroidStudioProjects\Placebook\app\src\main\AndroidManifest.xml:26:9-31:20
+	android:label
+		ADDED from C:\Users\Player One\AndroidStudioProjects\Placebook\app\src\main\AndroidManifest.xml:28:13-37
+	android:windowSoftInputMode
+		ADDED from C:\Users\Player One\AndroidStudioProjects\Placebook\app\src\main\AndroidManifest.xml:30:13-54
+	android:theme
+		ADDED from C:\Users\Player One\AndroidStudioProjects\Placebook\app\src\main\AndroidManifest.xml:29:13-56
+	android:name
+		ADDED from C:\Users\Player One\AndroidStudioProjects\Placebook\app\src\main\AndroidManifest.xml:27:13-82
+provider#androidx.core.content.FileProvider
+ADDED from C:\Users\Player One\AndroidStudioProjects\Placebook\app\src\main\AndroidManifest.xml:32:9-40:20
+	android:grantUriPermissions
+		ADDED from C:\Users\Player One\AndroidStudioProjects\Placebook\app\src\main\AndroidManifest.xml:36:13-47
+	android:authorities
+		ADDED from C:\Users\Player One\AndroidStudioProjects\Placebook\app\src\main\AndroidManifest.xml:34:13-75
+	android:exported
+		ADDED from C:\Users\Player One\AndroidStudioProjects\Placebook\app\src\main\AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from C:\Users\Player One\AndroidStudioProjects\Placebook\app\src\main\AndroidManifest.xml:33:13-62
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from C:\Users\Player One\AndroidStudioProjects\Placebook\app\src\main\AndroidManifest.xml:37:13-39:53
+	android:resource
+		ADDED from C:\Users\Player One\AndroidStudioProjects\Placebook\app\src\main\AndroidManifest.xml:39:17-51
+	android:name
+		ADDED from C:\Users\Player One\AndroidStudioProjects\Placebook\app\src\main\AndroidManifest.xml:38:17-67
+uses-sdk
+INJECTED from C:\Users\Player One\AndroidStudioProjects\Placebook\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Player One\AndroidStudioProjects\Placebook\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Player One\AndroidStudioProjects\Placebook\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\4b7a94cc44aaf29d12e96580967b0578\material-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\4b7a94cc44aaf29d12e96580967b0578\material-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.1.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\cb2c142d79604646c89f5c60f9c25694\jetified-activity-ktx-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.1.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\cb2c142d79604646c89f5c60f9c25694\jetified-activity-ktx-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\43a917f9534cb05f0a20bd294163eceb\jetified-lifecycle-viewmodel-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\43a917f9534cb05f0a20bd294163eceb\jetified-lifecycle-viewmodel-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\334d8ef66280a3992eca002228faf8de\jetified-lifecycle-runtime-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\334d8ef66280a3992eca002228faf8de\jetified-lifecycle-runtime-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.2.4] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\e8cc9e1c87b2ac4ab8a06ef880ed797a\room-runtime-2.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.2.4] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\e8cc9e1c87b2ac4ab8a06ef880ed797a\room-runtime-2.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.libraries.places:places:2.2.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\88212237aada6baf10ea53169e10f359\jetified-places-2.2.0\AndroidManifest.xml:7:5-44
+MERGED from [com.google.android.libraries.places:places:2.2.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\88212237aada6baf10ea53169e10f359\jetified-places-2.2.0\AndroidManifest.xml:7:5-44
+MERGED from [androidx.core:core-ktx:1.3.1] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\8980d788014fcfbd6a5e16fdd30ae692\jetified-core-ktx-1.3.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.1] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\8980d788014fcfbd6a5e16fdd30ae692\jetified-core-ktx-1.3.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\810bc0023f39274b6f9bc838d32f9df6\constraintlayout-2.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\810bc0023f39274b6f9bc838d32f9df6\constraintlayout-2.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\4e039017508058e03141616af225b4eb\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\4e039017508058e03141616af225b4eb\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\89f1fabb145e11ae04e34496891dea8a\jetified-play-services-location-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\89f1fabb145e11ae04e34496891dea8a\jetified-play-services-location-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\84d72358cb7edc9162e5c678460a7256\jetified-play-services-maps-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\84d72358cb7edc9162e5c678460a7256\jetified-play-services-maps-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\ae0d43a8cd9e2d0dca0ee7612d373384\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\ae0d43a8cd9e2d0dca0ee7612d373384\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\9851228a28131c6e079209b1996b47a5\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\9851228a28131c6e079209b1996b47a5\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\e960c38ba3074b13a07325926ae4b3e7\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\e960c38ba3074b13a07325926ae4b3e7\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\b5466dcfe12488b715be006750d7ab23\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\b5466dcfe12488b715be006750d7ab23\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\4641752ec657f9b4a42d6a06f25d7d22\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\4641752ec657f9b4a42d6a06f25d7d22\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\4105de63edbfe1f7a89f44426cee4e60\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\4105de63edbfe1f7a89f44426cee4e60\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\484b16f1e5940703d264a70e13a14e3d\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\484b16f1e5940703d264a70e13a14e3d\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\87ac0cb8801084f9e52c860ba2474e27\lifecycle-extensions-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\87ac0cb8801084f9e52c860ba2474e27\lifecycle-extensions-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\548e9fe7c0dbc0938b6828b2531865ee\jetified-play-services-base-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\548e9fe7c0dbc0938b6828b2531865ee\jetified-play-services-base-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\a47ac503a53104cb9453ec1628337d0a\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\a47ac503a53104cb9453ec1628337d0a\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\187ac540f112f4115e09d1ca0f046a1e\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\187ac540f112f4115e09d1ca0f046a1e\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\1b90b1be4df66705fb91818db0752e78\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\1b90b1be4df66705fb91818db0752e78\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\196689ac7938efd9fe7bde63e1bf8c1a\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\196689ac7938efd9fe7bde63e1bf8c1a\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\07fffc4e66e9051edb002e23eddf3cce\jetified-activity-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\07fffc4e66e9051edb002e23eddf3cce\jetified-activity-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:1.0.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\a5d8218f222afd1356a654be097d36f3\jetified-lifecycle-viewmodel-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:1.0.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\a5d8218f222afd1356a654be097d36f3\jetified-lifecycle-viewmodel-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\6f621cac338d61e4657df2851636b5fa\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\6f621cac338d61e4657df2851636b5fa\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\ff664a25e1391f1156cfb2e2374c7147\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\ff664a25e1391f1156cfb2e2374c7147\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\e3edde45ffebbc7c1f6d733314641c7e\sqlite-framework-2.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\e3edde45ffebbc7c1f6d733314641c7e\sqlite-framework-2.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.1] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\ed0d183fbf2c77b799a8052e72e1610e\sqlite-2.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.1] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\ed0d183fbf2c77b799a8052e72e1610e\sqlite-2.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.1.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\52a239d0e0857e05e17905a5a2797745\jetified-transport-backend-cct-2.1.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.1.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\52a239d0e0857e05e17905a5a2797745\jetified-transport-backend-cct-2.1.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-runtime:2.1.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\f1b27c42c2ecbfe64636560fba7fdae1\jetified-transport-runtime-2.1.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:2.1.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\f1b27c42c2ecbfe64636560fba7fdae1\jetified-transport-runtime-2.1.0\AndroidManifest.xml:18:5-20:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\2a612bd4c425dcfbfc1a3a304e287881\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\2a612bd4c425dcfbfc1a3a304e287881\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\17f3264973adbc27bc15b903e97c2276\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\17f3264973adbc27bc15b903e97c2276\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\c12747f68fadffbb0e0ad871896b687f\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\c12747f68fadffbb0e0ad871896b687f\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\a30017872b14105a400314921d5cb62e\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\a30017872b14105a400314921d5cb62e\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.1] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\3fad7ea4f0b845c6f6667debb95e1494\core-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\3fad7ea4f0b845c6f6667debb95e1494\core-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\22f084678c0c8123034752ff82b9a006\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\22f084678c0c8123034752ff82b9a006\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\6118f679eabfffe3c12f082544a87853\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\6118f679eabfffe3c12f082544a87853\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\cfe5579bfd3e0405e80a9d4f73b47ec1\jetified-lifecycle-process-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\cfe5579bfd3e0405e80a9d4f73b47ec1\jetified-lifecycle-process-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\e7e745e2fbeb2e1d644c0f5f8cdb581d\jetified-lifecycle-service-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\e7e745e2fbeb2e1d644c0f5f8cdb581d\jetified-lifecycle-service-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\7d6e7d8b4768dffce85856eb040e0ba1\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\7d6e7d8b4768dffce85856eb040e0ba1\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\aa817d39ca4f9f9f764e5a0b70163814\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\aa817d39ca4f9f9f764e5a0b70163814\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\f44b25732aff5ebbf274fe3cc07a0c41\lifecycle-livedata-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\f44b25732aff5ebbf274fe3cc07a0c41\lifecycle-livedata-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\31435e025cdccb9fb8afecf6a35971cd\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\31435e025cdccb9fb8afecf6a35971cd\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\ca6f5dc978f1f081f1b8afbaed8e2aeb\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\ca6f5dc978f1f081f1b8afbaed8e2aeb\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\6ba1de9be899b775fb2e622bcf9ee329\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\6ba1de9be899b775fb2e622bcf9ee329\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\541c09a69b824cc7c223abe4277f4942\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\541c09a69b824cc7c223abe4277f4942\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\054bafbf921f3fd45c802972becf40c0\jetified-volley-1.1.1\AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\054bafbf921f3fd45c802972becf40c0\jetified-volley-1.1.1\AndroidManifest.xml:7:5-43
+MERGED from [com.google.android.datatransport:transport-api:2.1.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\4bdb64ad4f64ed8ae98209cce576b44f\jetified-transport-api-2.1.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:2.1.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\4bdb64ad4f64ed8ae98209cce576b44f\jetified-transport-api-2.1.0\AndroidManifest.xml:18:5-20:41
+INJECTED from C:\Users\Player One\AndroidStudioProjects\Placebook\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Player One\AndroidStudioProjects\Placebook\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Player One\AndroidStudioProjects\Placebook\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Player One\AndroidStudioProjects\Placebook\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Player One\AndroidStudioProjects\Placebook\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Player One\AndroidStudioProjects\Placebook\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Player One\AndroidStudioProjects\Placebook\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Player One\AndroidStudioProjects\Placebook\app\src\main\AndroidManifest.xml
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.2.4] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\e8cc9e1c87b2ac4ab8a06ef880ed797a\room-runtime-2.2.4\AndroidManifest.xml:25:9-27:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.2.4] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\e8cc9e1c87b2ac4ab8a06ef880ed797a\room-runtime-2.2.4\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.room:room-runtime:2.2.4] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\e8cc9e1c87b2ac4ab8a06ef880ed797a\room-runtime-2.2.4\AndroidManifest.xml:26:13-74
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [com.google.android.libraries.places:places:2.2.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\88212237aada6baf10ea53169e10f359\jetified-places-2.2.0\AndroidManifest.xml:10:5-76
+	android:name
+		ADDED from [com.google.android.libraries.places:places:2.2.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\88212237aada6baf10ea53169e10f359\jetified-places-2.2.0\AndroidManifest.xml:10:22-73
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.android.libraries.places:places:2.2.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\88212237aada6baf10ea53169e10f359\jetified-places-2.2.0\AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\84d72358cb7edc9162e5c678460a7256\jetified-play-services-maps-17.0.0\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\84d72358cb7edc9162e5c678460a7256\jetified-play-services-maps-17.0.0\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.1.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\52a239d0e0857e05e17905a5a2797745\jetified-transport-backend-cct-2.1.0\AndroidManifest.xml:26:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.1.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\52a239d0e0857e05e17905a5a2797745\jetified-transport-backend-cct-2.1.0\AndroidManifest.xml:26:5-67
+	android:name
+		ADDED from [com.google.android.libraries.places:places:2.2.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\88212237aada6baf10ea53169e10f359\jetified-places-2.2.0\AndroidManifest.xml:11:22-64
+activity#com.google.android.libraries.places.widget.AutocompleteActivity
+ADDED from [com.google.android.libraries.places:places:2.2.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\88212237aada6baf10ea53169e10f359\jetified-places-2.2.0\AndroidManifest.xml:14:9-20:20
+	android:label
+		ADDED from [com.google.android.libraries.places:places:2.2.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\88212237aada6baf10ea53169e10f359\jetified-places-2.2.0\AndroidManifest.xml:17:13-62
+	android:windowSoftInputMode
+		ADDED from [com.google.android.libraries.places:places:2.2.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\88212237aada6baf10ea53169e10f359\jetified-places-2.2.0\AndroidManifest.xml:19:13-55
+	android:exported
+		ADDED from [com.google.android.libraries.places:places:2.2.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\88212237aada6baf10ea53169e10f359\jetified-places-2.2.0\AndroidManifest.xml:16:13-37
+	android:theme
+		ADDED from [com.google.android.libraries.places:places:2.2.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\88212237aada6baf10ea53169e10f359\jetified-places-2.2.0\AndroidManifest.xml:18:13-61
+	android:name
+		ADDED from [com.google.android.libraries.places:places:2.2.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\88212237aada6baf10ea53169e10f359\jetified-places-2.2.0\AndroidManifest.xml:15:13-91
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\84d72358cb7edc9162e5c678460a7256\jetified-play-services-maps-17.0.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.1.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\52a239d0e0857e05e17905a5a2797745\jetified-transport-backend-cct-2.1.0\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.1.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\52a239d0e0857e05e17905a5a2797745\jetified-transport-backend-cct-2.1.0\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:2.1.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\f1b27c42c2ecbfe64636560fba7fdae1\jetified-transport-runtime-2.1.0\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:2.1.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\f1b27c42c2ecbfe64636560fba7fdae1\jetified-transport-runtime-2.1.0\AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\84d72358cb7edc9162e5c678460a7256\jetified-play-services-maps-17.0.0\AndroidManifest.xml:23:22-76
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\84d72358cb7edc9162e5c678460a7256\jetified-play-services-maps-17.0.0\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\84d72358cb7edc9162e5c678460a7256\jetified-play-services-maps-17.0.0\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\84d72358cb7edc9162e5c678460a7256\jetified-play-services-maps-17.0.0\AndroidManifest.xml:28:9-32
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\84d72358cb7edc9162e5c678460a7256\jetified-play-services-maps-17.0.0\AndroidManifest.xml:33:9-35:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\84d72358cb7edc9162e5c678460a7256\jetified-play-services-maps-17.0.0\AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\84d72358cb7edc9162e5c678460a7256\jetified-play-services-maps-17.0.0\AndroidManifest.xml:34:13-50
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\548e9fe7c0dbc0938b6828b2531865ee\jetified-play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\548e9fe7c0dbc0938b6828b2531865ee\jetified-play-services-base-17.0.0\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\548e9fe7c0dbc0938b6828b2531865ee\jetified-play-services-base-17.0.0\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\548e9fe7c0dbc0938b6828b2531865ee\jetified-play-services-base-17.0.0\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\1b90b1be4df66705fb91818db0752e78\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\1b90b1be4df66705fb91818db0752e78\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\1b90b1be4df66705fb91818db0752e78\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
+service#com.google.android.datatransport.runtime.backends.TransportBackendDiscovery
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.1.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\52a239d0e0857e05e17905a5a2797745\jetified-transport-backend-cct-2.1.0\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.1.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\f1b27c42c2ecbfe64636560fba7fdae1\jetified-transport-runtime-2.1.0\AndroidManifest.xml:36:9-38:40
+MERGED from [com.google.android.datatransport:transport-runtime:2.1.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\f1b27c42c2ecbfe64636560fba7fdae1\jetified-transport-runtime-2.1.0\AndroidManifest.xml:36:9-38:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.1.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\52a239d0e0857e05e17905a5a2797745\jetified-transport-backend-cct-2.1.0\AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.1.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\52a239d0e0857e05e17905a5a2797745\jetified-transport-backend-cct-2.1.0\AndroidManifest.xml:30:13-103
+meta-data#backend:com.google.android.datatransport.cct.CctBackendFactory
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.1.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\52a239d0e0857e05e17905a5a2797745\jetified-transport-backend-cct-2.1.0\AndroidManifest.xml:32:13-34:39
+	android:value
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.1.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\52a239d0e0857e05e17905a5a2797745\jetified-transport-backend-cct-2.1.0\AndroidManifest.xml:34:17-36
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.1.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\52a239d0e0857e05e17905a5a2797745\jetified-transport-backend-cct-2.1.0\AndroidManifest.xml:33:17-94
+service#com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService
+ADDED from [com.google.android.datatransport:transport-runtime:2.1.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\f1b27c42c2ecbfe64636560fba7fdae1\jetified-transport-runtime-2.1.0\AndroidManifest.xml:26:9-30:19
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:2.1.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\f1b27c42c2ecbfe64636560fba7fdae1\jetified-transport-runtime-2.1.0\AndroidManifest.xml:28:13-37
+	android:permission
+		ADDED from [com.google.android.datatransport:transport-runtime:2.1.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\f1b27c42c2ecbfe64636560fba7fdae1\jetified-transport-runtime-2.1.0\AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:2.1.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\f1b27c42c2ecbfe64636560fba7fdae1\jetified-transport-runtime-2.1.0\AndroidManifest.xml:27:13-117
+receiver#com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver
+ADDED from [com.google.android.datatransport:transport-runtime:2.1.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\f1b27c42c2ecbfe64636560fba7fdae1\jetified-transport-runtime-2.1.0\AndroidManifest.xml:32:9-34:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:2.1.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\f1b27c42c2ecbfe64636560fba7fdae1\jetified-transport-runtime-2.1.0\AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:2.1.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\f1b27c42c2ecbfe64636560fba7fdae1\jetified-transport-runtime-2.1.0\AndroidManifest.xml:33:13-132
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\cfe5579bfd3e0405e80a9d4f73b47ec1\jetified-lifecycle-process-2.1.0\AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\cfe5579bfd3e0405e80a9d4f73b47ec1\jetified-lifecycle-process-2.1.0\AndroidManifest.xml:25:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\cfe5579bfd3e0405e80a9d4f73b47ec1\jetified-lifecycle-process-2.1.0\AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\cfe5579bfd3e0405e80a9d4f73b47ec1\jetified-lifecycle-process-2.1.0\AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\Player One\.gradle\caches\transforms-2\files-2.1\cfe5579bfd3e0405e80a9d4f73b47ec1\jetified-lifecycle-process-2.1.0\AndroidManifest.xml:24:13-79
